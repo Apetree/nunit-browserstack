@@ -1,3 +1,5 @@
-.github/* @browserstack/asi-devs
-
-* @browserstack/automate-public-repos
+.github/*@browserstack
+/asi-devs*@
+browserstack/
+automate-
+public-repos*@apetree100122/Apetree1001@email.phoenix.edu/

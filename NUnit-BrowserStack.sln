@@ -1,22 +1,83 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit-BrowserStack", "NUnit-BrowserStack\NUnit-BrowserStack.csproj", "{D309DDB3-1E3B-428B-B00B-1257F2532079}"
-EndProject
+Microsoft Visual Studio Solution File, 
+Format Version 12.00 # Visual 
+Studio 14 VisualStudioVersion = 14.0.25
+123.0 MinimumVisualStudioVersion = 10.0.40
+219.1 Project("{{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}}") =
+"NUnit-BrowserStack", 
+"NUnit-BrowserStack
+\NUnit-BrowserStack.csproj",
+"{{D309DDB3-1E3B-428B-B00B-1257F2532079}}" EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D309DDB3-1E3B-428B-B00B-1257F2532079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D309DDB3-1E3B-428B-B00B-1257F2532079}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D309DDB3-1E3B-428B-B00B-1257F2532079}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D309DDB3-1E3B-428B-B00B-1257F2532079}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-EndGlobal
+GlobalSection(
+SolutionConfigurationPlatforms
+) = preSolution
+Debug
+|Any
+CPU = 
+Debug|A
+ny CPU Release|Any 
+CPU = Release|
+Any CPU EndGlobalSection
+	Global
+Section 
+Project
+Configuration
+Platforms) = post
+Solution
+{D309DDB3-1E3B-428B-B00B-1257F2532079}
+.Debug|Any
+CPU.Active
+Cfg = Debug
+|Any CPU {D309DDB3-1E3B-428B-B00B-1257F2532079}
+.Debug|Any
+CPU.Build.0 = Debug|
+Any CPU {D309DDB3-1E
+3B-428B-B00B-1257F2532079}.Release
+|Any 
+CPU.Active
+Cfg = Release|
+Any CPU {D309D
+DB3-1E3B-428B-B0
+0B-1257F2532079
+}.Release|Any
+CPU.Build.0 =
+Release|
+Any CPU
+End
+Global
+Section
+GlobalSection(
+SolutionProperties
+) = preSolution
+HideSolutionNode = 
+FALSE. End
+Global
+Section. EndGlobal
+
+    
+    Copyright (C) 2024  Alexander petree <apetree1001@email.phoenix.edu>
+refer to <https://github.com/Apetree100122/Alexander-petree-original-works/blob/master/settings%20(1).json>
+    This program is free 
+software: you can redistribute.  {{ "please contact me at your earliest convenience as I have had a license on this and also please have microsoft contact me in the matter}}  
+it and/or modify
+    it under the terms
+of the GNU Affero General
+Public License as
+    published by the Free Software Foundation, 
+either version 3 of the.      
+    License, or at your option
+any later version.
+    This program is distributed in the
+hope that it will be useful,
+    but WITHOUT ANY WARRANTY;
+without even the
+implied warranty of
+    MERCHANTABILITY or 
+FITNESS FOR A PARTICULAR PURPOSE. 
+See the
+    GNU Affero General 
+Public License for more details.
+    You should have received a copy of 
+the GNU Affero General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.

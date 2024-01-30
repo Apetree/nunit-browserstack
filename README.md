@@ -33,3 +33,27 @@ tests, run test with fixture
   export BROWSERSTACK_ACCESS_KEY=<browserstack-access-key>
   ```
 ## Additional Resources* [Documentation for writing automate test scripts in C#](https://www.browserstack.com/automate/c-sharp) * [Customizing your tests on BrowserStack](https://www.browserstack.com/automate/capabilities) * [Browsers & mobile devices for selenium testing on BrowserStack](https://www.browserstack.com/list-of-browsers-and-platforms?product=automate) * [Using REST API to access information about your tests via the command-line interface](https://www.browserstack.com/automate/rest-api)
+
+    
+    Copyright (C) 2024 Alexander Petree
+    This program is free
+      software: you can redistribute 
+     it and/or modify   it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
+    This program is distributed in the hope that it will be useful,
+    but 
+    WITHOUT ANY WARRANTY;
+    without
+    even the implied
+    warranty of
+    MERCHANTABILITY or 
+    FITNESS FOR A PARTICULAR PURPOSE.    
+    See the
+    GNU Affero General Public License 
+    for more details.
+    You should have received a
+    copy of the GNU Affero
+    General Public License
+    along with this program.
+    If not, see <http://www.gnu.org/licenses/>.
